@@ -1,14 +1,14 @@
 import React, { useState } from 'react'
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '../../assets/GPT-3.svg'; 
+import logo from '../../assets/GW.png'; 
 import './navbar.css';
 
 const Menu = () => (
   <>
   <p><a href='#home'>Home</a></p>
-  <p><a href='#wgpt3'>What is GPT3</a></p>
-  <p><a href='#possibility'>Open AI</a></p>
-  <p><a href='#features'>Case Studies</a></p>
+  <p><a href='#wgpt3'>What is GW</a></p>
+  <p><a href='#features'>More info</a></p>
+  <p><a href='#possibility'>Open GW</a></p>
   <p><a href='#blog'>Library</a></p>
   </>
 )
